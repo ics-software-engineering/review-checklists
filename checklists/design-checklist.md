@@ -1,6 +1,6 @@
 # Design Checklist
 
-Best practices concerning the high-level design of functions that is not specific to React, Typescript, or Javascript.
+Best practices concerning the high-level design of functions that are not specific to React, Typescript, or Javascript.
 
 ### Design-01: Can you refactor to reduce duplication?
 
